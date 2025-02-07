@@ -66,5 +66,3 @@ VS Code for Development
 GitHub for Version Control & Documentation
 
 ⭐ If you find this project useful, give it a star on GitHub! ⭐
-
-📌 Next Steps: Copy this content into README.md inside your VS Code project folder.
