@@ -1,0 +1,12 @@
+# Python Libraries for Amazon Seller Tax Summary Dashboard
+pandas
+numpy
+dash
+plotly
+streamlit
+matplotlib
+seaborn
+openpyxl
+scikit-learn
+pytest
+jupyter
